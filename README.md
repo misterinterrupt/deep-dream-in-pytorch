@@ -19,7 +19,7 @@ Cloud
 
 DeepDream Cloud
 
-![dd](dreamed_images/deepdreamed_cloud.jpg)
+![dd](dreamed_images/deepdreamed-cloud.jpg)
 
 Waves
 
@@ -27,7 +27,7 @@ Waves
 
 DeepDream Waves
 
-![dd](dreamed_images/deepdreamed_wave.jpg)
+![dd](dreamed_images/deepdreamed-wave.jpg)
 
 Starry Night
 
@@ -35,4 +35,4 @@ Starry Night
 
 DeepDream Starry Night
 
-![dd](dreamed_images/deepdreamed_starry_night.jpg)
+![dd](dreamed_images/deepdreamed-starry_night.jpg)
