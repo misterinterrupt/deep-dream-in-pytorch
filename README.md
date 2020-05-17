@@ -15,32 +15,24 @@ Note: to improve performance set CUDA_ENABLED = True in the notebook if you have
 
 Cloud
 
-![img](cloud.jpg)
+![img](source_images/cloud.jpg)
 
 DeepDream Cloud
 
-![dd](deepdream_cloud.jpg)
-
+![dd](dreamed_images/deepdreamed_cloud.jpg)
 
 Waves
 
-![img](wave.jpg)
+![img](source_images/wave.jpg)
 
 DeepDream Waves
 
-![dd](deepdream_wave.jpg)
+![dd](dreamed_images/deepdreamed_wave.jpg)
 
 Starry Night
 
-![img](starry_night.jpg)
+![img](source_images/starry_night.jpg)
 
 DeepDream Starry Night
 
-![dd](deepdream_starry_night.jpg)
-
-[Fun video games with good AI](https://play.google.com/store/apps/dev?id=8454869713871668206)
------------------------
--   [Tic Tac Toe](http://play.google.com/store/apps/details?id=com.popoko.gomokuvn)
--   [Chess](http://play.google.com/store/apps/details?id=com.popoko.chessru)
--   [Gomoku](http://play.google.com/store/apps/details?id=com.popoko.gomokukr)
--   [Minesweeper](http://play.google.com/store/apps/details?id=com.popoko.minesweeper)
+![dd](dreamed_images/deepdreamed_starry_night.jpg)
